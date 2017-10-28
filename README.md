@@ -22,10 +22,10 @@
 - pull request
 # 第三讲 实践
 ---
-- 从(https://github.com/JXUT-Developers/HelloWorld)[https://github.com/JXUT-Developers/HelloWorld]中fork一份代码到自己的GitHub仓库
+- 从[https://github.com/JXUT-Developers/HelloWorld](https://github.com/JXUT-Developers/HelloWorld)中fork一份代码到自己的GitHub仓库
 - 克隆(clone)一份fork的代码到本机
 - 添加HelloWorld文件并且commit
 - push到自己的GitHub远程仓库
-- pull request到(https://github.com/JXUT-Developers/HelloWorld)[https://github.com/JXUT-Developers/HelloWorld]
+- pull request到[https://github.com/JXUT-Developers/HelloWorld](https://github.com/JXUT-Developers/HelloWorld)
 
 
